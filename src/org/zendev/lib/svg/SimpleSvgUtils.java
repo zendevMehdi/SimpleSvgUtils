@@ -41,6 +41,8 @@ public class SimpleSvgUtils {
             label.setIcon(new ImageIcon(result));
         } else if (c instanceof JMenuItem mi) {
             mi.setIcon(new ImageIcon(result));
+        } else if (c instanceof JToggleButton button) {
+            button.setIcon(new ImageIcon(result));
         }
     }
 }

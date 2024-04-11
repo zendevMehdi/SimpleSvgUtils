@@ -43,3 +43,7 @@ public class App {
     }
 }
 ```
+
+## Screenshots
+
+![screenshots/cat.png](https://github.com/zendevMehdi/SimpleSvgUtils/blob/afbf88f4d5e9667c03b42c3cea0aae3a462fe292/screenshots/cat.png)
